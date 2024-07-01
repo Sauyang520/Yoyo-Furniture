@@ -1,0 +1,9 @@
+YC0001|Jonathan|01099999991|abc1,hotel bunga,jalan tidur
+YC0002|Kelly|01099999992|abc2,hotel bunga,jalan tidur
+YC0003|Hao Zhe|01099999993|abc3,hotel bunga,jalan tidur
+YC0004|Ahmad|01099999994|abc4,hotel bunga,jalan tidur
+YC0005|Bryan|01099999995|abc5,hotel bunga,jalan tidur
+YC0006|Sim Yang|01099999996|abc6,hotel bunga,jalan tidur
+YC0007|Jonathan Two|01099999997|abc7,hotel bunga,jalan tidur
+YC0008|Oii Chong Min|0101111111|Jalan Penang, Parkhill
+YC0009|Test Guy|0112374844|30, Jalan
